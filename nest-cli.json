@@ -28,15 +28,6 @@
         "tsConfigPath": "apps/auth/tsconfig.app.json"
       }
     },
-    "foodi-app": {
-      "type": "application",
-      "root": "apps/foodi-app",
-      "entryFile": "main",
-      "sourceRoot": "apps/foodi-app/src",
-      "compilerOptions": {
-        "tsConfigPath": "apps/foodi-app/tsconfig.app.json"
-      }
-    },
     "menu-app": {
       "type": "application",
       "root": "apps/menu-app",
